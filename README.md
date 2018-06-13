@@ -13,3 +13,5 @@ u'cookie': u'PASTE YOUR COOKIE HERE'
 ```
 nohup python -u Download.py >download.log 2>&1 &
 ```
+
+Note: This script helps you to download SRAD2018_TRAIN_(001 to 060).zip. 
