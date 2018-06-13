@@ -8,7 +8,7 @@ def main():
             Headers = {u'accept': u' text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
                        u'accept-encoding': u' gzip, deflate, br',
                        u'accept-language': u' zh-CN,zh;q=0.9,en;q=0.8',
-                       u'cookie': u" ",
+                       u'cookie': u' ',
                        u'referer': u'https://tianchi.aliyun.com/datalab/dataSet.html?spm=5176.11409106.555.12.747a1e8bU64VIe&dataId=110',
                        u'upgrade-insecure-requests': u' 1',
                        u'user-agent': u' Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15'}
